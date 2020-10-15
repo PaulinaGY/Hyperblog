@@ -3,6 +3,7 @@ Diana tiene 24 años y nacio en Mexico
 quiere dedicarse a crear tecnologia
 Especificamente a bases de datos en machine learning
 Experimento1
+Experimento2
 Master 1
 
 
