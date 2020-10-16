@@ -6,3 +6,4 @@ Un blog increíble
 *crear repositorios 
 *Tu primer pull y push 
 *Que es un merge 
+*Creado por platzi team 
