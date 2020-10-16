@@ -7,3 +7,4 @@ Un blog increíble
 *Tu primer pull y push 
 *Que es un merge 
 *Creado por platzi team 
+*incluye ejemploss
